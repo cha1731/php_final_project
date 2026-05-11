@@ -1,8 +1,9 @@
 # Team TAK
 
 Members:
+- Tijana
 - Anna
-- Aleksandar
+- Kasija
 
 Topic:
 Movie Review App
